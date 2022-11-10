@@ -1,0 +1,146 @@
+﻿[
+  {
+    "id_osoba": 1,
+    "imie": "Florian",
+    "nazwisko": "Kowal",
+    "plec": 2,
+    "id_ojca": null,
+    "id_matki": null,
+    "rok_urodzenia": 1890
+  },
+  {
+    "id_osoba": 2,
+    "imie": "Bolesław",
+    "nazwisko": "Kowal",
+    "plec": 2,
+    "id_ojca": 1,
+    "id_matki": 3,
+    "rok_urodzenia": 1920
+  },
+  {
+    "id_osoba": 3,
+    "imie": "Anna",
+    "nazwisko": "Kowal",
+    "plec": 1,
+    "id_ojca": null,
+    "id_matki": null,
+    "rok_urodzenia": 1891
+  },
+  {
+    "id_osoba": 4,
+    "imie": "Franciszek",
+    "nazwisko": "Gorzała",
+    "plec": 2,
+    "id_ojca": 1,
+    "id_matki": 3,
+    "rok_urodzenia": 1922
+  },
+  {
+    "id_osoba": 5,
+    "imie": "Anna",
+    "nazwisko": "Piotrowska",
+    "plec": 1,
+    "id_ojca": null,
+    "id_matki": null,
+    "rok_urodzenia": 1921
+  },
+  {
+    "id_osoba": 6,
+    "imie": "Aleksander",
+    "nazwisko": "Gadała",
+    "plec": 2,
+    "id_ojca": 2,
+    "id_matki": 5,
+    "rok_urodzenia": 1942
+  },
+  {
+    "id_osoba": 7,
+    "imie": "Barbara",
+    "nazwisko": "Gadała",
+    "plec": 1,
+    "id_ojca": 2,
+    "id_matki": 5,
+    "rok_urodzenia": 1944
+  },
+  {
+    "id_osoba": 8,
+    "imie": "Jolanta",
+    "nazwisko": "Gadała",
+    "plec": 1,
+    "id_ojca": 2,
+    "id_matki": 5,
+    "rok_urodzenia": 1945
+  },
+  {
+    "id_osoba": 9,
+    "imie": "Leszek",
+    "nazwisko": "Pol",
+    "plec": 2,
+    "id_ojca": null,
+    "id_matki": 8,
+    "rok_urodzenia": 1974
+  },
+  {
+    "id_osoba": 10,
+    "imie": "Piotr",
+    "nazwisko": "Gadała",
+    "plec": 2,
+    "id_ojca": 6,
+    "id_matki": null,
+    "rok_urodzenia": 1968
+  },
+  {
+    "id_osoba": 11,
+    "imie": "Krystyna",
+    "nazwisko": "Krak",
+    "plec": 1,
+    "id_ojca": 4,
+    "id_matki": null,
+    "rok_urodzenia": 1955
+  },
+  {
+    "id_osoba": 12,
+    "imie": "Piotr",
+    "nazwisko": "Krak",
+    "plec": 2,
+    "id_ojca": null,
+    "id_matki": 11,
+    "rok_urodzenia": 1979
+  },
+  {
+    "id_osoba": 13,
+    "imie": "Aleksander",
+    "nazwisko": "Wit",
+    "plec": 2,
+    "id_ojca": 1,
+    "id_matki": 3,
+    "rok_urodzenia": 1924
+  },
+  {
+    "id_osoba": 14,
+    "imie": "Andrzej",
+    "nazwisko": "Wit",
+    "plec": 2,
+    "id_ojca": 13,
+    "id_matki": null,
+    "rok_urodzenia": 1947
+  },
+  {
+    "id_osoba": 15,
+    "imie": "Zbigniew",
+    "nazwisko": "Wit",
+    "plec": 2,
+    "id_ojca": 13,
+    "id_matki": null,
+    "rok_urodzenia": 1946
+  },
+  {
+    "id_osoba": 16,
+    "imie": "Małgorzata",
+    "nazwisko": "Wesoła",
+    "plec": 1,
+    "id_ojca": 10,
+    "id_matki": null,
+    "rok_urodzenia": 1994
+  }
+]
